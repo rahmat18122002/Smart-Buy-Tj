@@ -1,0 +1,6 @@
+{
+  "name": "Smart Buy Tj",
+  "description": "Full-featured business management application for a retail store.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
